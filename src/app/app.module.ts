@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CardComponent } from './card/card.component';
-import { AlertModule} from 'ngx-bootstrap';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { SchoolxprodersComponent } from './schoolxproders/schoolxproders.component';
 import { NavmainComponent } from './navmain/navmain.component';
